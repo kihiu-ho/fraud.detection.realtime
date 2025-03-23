@@ -1,0 +1,9 @@
+.env
+
+# Ignore PyCharm IDE files
+.idea/
+*.iml
+
+*.yaml
+
+fraud_detection_training.py
